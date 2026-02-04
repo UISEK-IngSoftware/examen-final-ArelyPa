@@ -1,0 +1,10 @@
+.character-avatar {
+  width: 90px;
+  height: 90px;
+}
+
+.character-avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
